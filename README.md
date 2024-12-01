@@ -5,16 +5,12 @@
 Tired of clicking Wikipedia links on your desktop, only for the mobile version to load? Try the Wikipedia URL Replacer, a simple Chrome extension that will automatically load the desktop version of Wikipedia pages over mobile.
 
 ## Installation
-1. Install and compile
-
-```
-npm install && npx tsc
-```
-
+1. Clone the repository
+   
 2. Load the extension in Chrome:
 - Open chrome://extensions/.
 - Enable Developer mode
 - Click Load unpacked and select the project directory
 
 3. Test it out
-Try opening a link like https://en.m.wikipedia.org/wiki/Tarbosaurus
+- Try opening a mobile link (supports language subdomains) like https://en.m.wikipedia.org/wiki/Tarbosaurus
