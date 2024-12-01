@@ -8,7 +8,7 @@ Tired of clicking Wikipedia links on your desktop, only for the mobile version t
 1. Clone the repository
    
 2. Load the extension in Chrome:
-- Open chrome://extensions/.
+- Open ```chrome://extensions/```
 - Enable Developer mode
 - Click Load unpacked and select the project directory
 
