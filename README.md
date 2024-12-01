@@ -1,8 +1,8 @@
-# Redirect Mobile Wikipedia URLs
+# Mobile Wikipedia Replacer
 
 ![image](https://github.com/user-attachments/assets/0e679872-0bf2-41c4-88f7-c49046747fa1)
 
-Tired of clicking Wikipedia links on your desktop, only for the mobile version to load? Try the Wikipedia URL Replacer, a simple Chrome extension that will automatically load the desktop version of Wikipedia pages over mobile.
+Tired of clicking Wikipedia links on your desktop, only for the mobile version to load? Try the Mobile Wikipedia Replacer, a simple Chrome extension that will automatically load the desktop version of Wikipedia pages over mobile.
 
 ## Installation
 1. Clone the repository
