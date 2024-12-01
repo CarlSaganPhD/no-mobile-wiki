@@ -1,5 +1,7 @@
 # Wikipedia URL Replacer
 
+![image](https://github.com/user-attachments/assets/0e679872-0bf2-41c4-88f7-c49046747fa1)
+
 I got tired of mobile Wikipedia pages displaying on my desktop browser so here's a simple Chrome extension that redirects them automatically.
 
 ## Installation
