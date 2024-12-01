@@ -3,7 +3,6 @@
       "target": "ES6",
       "module": "ESNext",
       "lib": ["ESNext", "DOM"],
-      "outDir": "./dist",
       "strict": true,
       "types": ["chrome"]
     }

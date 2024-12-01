@@ -6,7 +6,7 @@
             "type": "redirect",
             "redirect": {
                 "transform": {
-                    "host": "en.wikipedia.org"
+                    "host": "wikipedia.org"
                 }
             }
         },
