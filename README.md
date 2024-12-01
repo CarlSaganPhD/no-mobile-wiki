@@ -1,4 +1,4 @@
-# Wikipedia URL Replacer
+# Redirect Mobile Wikipedia URLs
 
 ![image](https://github.com/user-attachments/assets/0e679872-0bf2-41c4-88f7-c49046747fa1)
 
