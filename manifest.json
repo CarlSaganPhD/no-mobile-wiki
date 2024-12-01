@@ -1,0 +1,31 @@
+{
+    "manifest_version": 3,
+    "name": "Wikipedia URL Replacer",
+    "version": "1.2",
+    "permissions": [
+        "declarativeNetRequest"
+    ],
+    "host_permissions": [
+        "*://*.m.wikipedia.org/*",
+        "*://*.wikipedia.org/*"
+    ],
+    "declarative_net_request": {
+        "rule_resources": [
+            {
+                "id": "ruleset",
+                "enabled": true,
+                "path": "rules.json"
+            }
+        ]
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.wikipedia.org/*"
+            ],
+            "js": [
+                "toast.js"
+            ]
+        }
+    ]
+}

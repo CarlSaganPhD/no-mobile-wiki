@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# TypeScript compiled output
+dist/
+*.js.map
+*.d.ts
+
+# Logs and system files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Temporary files and backups
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Chrome extension build artifacts
+*.crx
+*.pem
